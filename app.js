@@ -1,3 +1,13 @@
-let name = prompt("What's your name?");
+// var
+var learning, name, age;
 
-document.getElementById('welcome').innerHTML =  'welcome: ' + name;
+    learning = 'JavaScript',
+    name = 'Paribesh',
+    age = '29';
+
+console.log(learning);
+console.log(name);
+console.log(age);
+
+
+
